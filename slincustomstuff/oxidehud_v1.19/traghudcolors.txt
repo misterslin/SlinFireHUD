@@ -1,0 +1,5 @@
+traghud - how he gets colors for his various things
+
+for player health for example:
+-search hud_animations.txt in scripts folder for "health bonus pulse"
+-to change the value of "playerhpcolorhigh", find it in the clientscheme.res in the resource folder

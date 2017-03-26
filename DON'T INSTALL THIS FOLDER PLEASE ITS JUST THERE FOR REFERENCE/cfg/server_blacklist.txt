@@ -1,0 +1,123 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GRAVELPIT 24/7 - FAST RESPAWN"
+		"date"		"1287657531"
+		"addr"		"173.242.115.136:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GRANARY 24/7 - FAST RESPAWN"
+		"date"		"1287657534"
+		"addr"		"173.242.116.122:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HOODOO 24/7 - FAST RESPAWN"
+		"date"		"1289405983"
+		"addr"		"173.242.115.136:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | 2FORT 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.116.122:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | BADLANDS 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.116.122:27018"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | DUSTBOWL 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.116.122:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | EGYPT 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.115.136:27018"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GOLDRUSH 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.116.122:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GRANARY 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.116.122:27119"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HIGHTOWER 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.115.136:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | KOTH 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.116.122:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | MOUNTAIN LAB 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.115.136:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | PIPELINE 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.115.136:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | TURBINE 24/7 - FAST RESPAWN"
+		"date"		"1289405996"
+		"addr"		"173.242.115.136:27017"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Stock Maps #5 | Texas"
+		"date"		"1289650363"
+		"addr"		"208.115.218.36:27015"
+	}
+	"server"
+	{
+		"name"		"yourserver.com TF2 Server"
+		"date"		"1289650408"
+		"addr"		"71.231.198.213:27015"
+	}
+	"server"
+	{
+		"name"		"ETERNAL'S ARCH REBELS"
+		"date"		"1289650414"
+		"addr"		"68.201.84.210:27017"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Stock Maps #3 | West Coast"
+		"date"		"1289650458"
+		"addr"		"38.105.22.114:27015"
+	}
+	"server"
+	{
+		"name"		"   ProTF2.com Valve Rotation #1 | HLStatsX"
+		"date"		"1291115774"
+		"addr"		"216.245.215.75:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | LAKESIDE 24/7 - FAST RESPAWN"
+		"date"		"1307065771"
+		"addr"		"50.30.33.68:27018"
+	}
+}
