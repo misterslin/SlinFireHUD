@@ -34,8 +34,8 @@
 		"tall"			"71"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/score_panel_blue_bg_solid"
 		"scaleImage"		"1"
 		
@@ -51,17 +51,12 @@
 		"xpos"			"7"
 		"ypos"			"9"
 		"zpos"			"20"
-		"wide"			"60"
-		"tall"			"60"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/team_blue"
 		"scaleImage"		"1"
-
-		if_mvm
-		{
-			"visible"		"0"
-		}
 	}
 	"BlueLeaderAvatar"
 	{
@@ -101,8 +96,8 @@
 		"tall"			"71"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/score_panel_red_bg_solid"
 		"scaleImage"		"1"
 
@@ -119,17 +114,12 @@
 		"xpos"			"571"
 		"ypos"			"-5"
 		"zpos"			"20"
-		"wide"			"80"
-		"tall"			"80"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/team_red"
 		"scaleImage"		"1"
-
-		if_mvm
-		{
-			"visible"		"0"
-		}
 	}
 	"RedLeaderAvatar"
 	{
@@ -170,8 +160,8 @@
 		"tall"			"410"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"border"		"TFThinLineBorder"
 		
 		if_mvm
@@ -391,14 +381,9 @@
 		"tall"			"43"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"border"		"TFThinLineBorder"
-		
-		if_mvm
-		{
-			"visible"		"0"
-		}
 	}
 	"ServerTimeLeftInsetBG"
 	{
@@ -411,14 +396,9 @@
 		"tall"			"23"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"border"		"TFFatLineBorderOpaque"
-
-		if_mvm
-		{
-			"visible"		"0"
-		}
 	}
 	"ServerTimeLeftLabel"
 	{
@@ -609,8 +589,8 @@
 		"xpos"			"4"
 		"ypos"			"372"
 		"zpos"			"-2"
-		"wide"			"633"
-		"tall"			"72"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -622,6 +602,8 @@
 		if_mvm
 		{
 			"visible"		"1"
+			"wide"			"633"
+			"tall"			"72"
 		}
 	}
 	"ClassImage"
@@ -652,8 +634,8 @@
 		"xpos"			"-10"
 		"ypos"			"185"
 		"zpos"			"10"		
-		"wide"			"130"
-		"tall"			"260"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -668,8 +650,10 @@
 		if_mvm
 		{
 			"visible"		"0"
+			"wide"			"130"
+			"tall"			"260"
 		}
-				
+
 		"model"
 		{
 			"force_pos"	"1"
@@ -844,8 +828,8 @@
 		"xpos"			"105"
 		"ypos"			"372"
 		"zpos"			"-1"
-		"wide"			"485"
-		"tall"			"29"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
