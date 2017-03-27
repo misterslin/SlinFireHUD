@@ -12,6 +12,7 @@
 		"delta_item_font"		"surface23"
 		"delta_item_font_big"	"surface23"
 	}
+	
 	"DamageAccountValue"
 	{
 		"ControlName"	"CExLabel"
