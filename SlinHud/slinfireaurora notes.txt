@@ -1,0 +1,20 @@
+slinfireaura notes
+
+gameplay
+> on round win, make the top 3 players menu thing really small so i can either see through it or at least kill people post-round
+
+main menu
+> remove featured box cause the man is trying to sell me stuff again
+
+medic
+> ubercharge percentage needs to be like the old one
+> enemy uber tracking percentage numbers need to be a little closer together
+
+target IDs
+> bold the health values
+> on death screen, make the health number more legible (bold?)
+> really i just want old one back lol
+
+bugs:
+> randomly when I spawn in casual mode, target ID health unbuffed will be green. other times it will be white. 
+>>Fix: white for unbuffed hp. red for hurt, blue for buffed.

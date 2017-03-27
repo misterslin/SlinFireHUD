@@ -27,7 +27,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"		"Damage Numbers"
-		"font"		"Damage26"
+		"font"		"Damage35"
 	}
 	
 	"DamageAccountValueBG"

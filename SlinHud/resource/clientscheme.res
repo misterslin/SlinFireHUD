@@ -3079,6 +3079,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		"Damage35"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"35"
+				"weight"	"900"
+				"antialias" "1"
+			}
+		}
 		
 		"Veranda12"
 		{
