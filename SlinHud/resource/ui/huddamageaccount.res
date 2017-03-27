@@ -2,15 +2,15 @@
 {
 	"CDamageAccountPanel"
 	{
-		"fieldName"			"CDamageAccountPanel"
-		"text_x"			"0"
-		"text_y"			"0"
-		"delta_item_end_y"	"0"
-		"PositiveColor"		"Damage Numbers"
-		"NegativeColor"		"Damage Numbers"
+		"fieldName"				"CDamageAccountPanel"
+		"text_x"				"0"
+		"text_y"				"0"
+		"delta_item_end_y"		"0"
+		"PositiveColor"			"Damage Positive" 
+		"NegativeColor"			"Damage Negative" 
 		"delta_lifetime"		"2.0"
-		"delta_item_font"		"surface23"
-		"delta_item_font_big"	"surface23"
+		"delta_item_font"		"Damage16"
+		"delta_item_font_big"	"Damage20"
 	}
 	
 	"DamageAccountValue"
@@ -27,7 +27,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"		"Damage Numbers"
-		"font"		"surface28"
+		"font"		"Damage26"
 	}
 	
 	"DamageAccountValueBG"
@@ -43,7 +43,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"fgcolor"		"0 0 0 255"
-		"font"		"surface28"
+		"fgcolor"		"Damage NumbersBG"
+		"font"		"Damage26"
 	}
 }

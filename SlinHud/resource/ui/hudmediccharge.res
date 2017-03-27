@@ -41,27 +41,27 @@
 		"font"			"UberPercentage"
 	}	
 	
-	"ChargeLabelBG"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ChargeLabelBG"
-		"xpos"			"c-45"
-		"ypos"			"c36"
-		"zpos"			"2"
-		"wide"			"90"
-		"tall"			"15"
-		"autoResize"	"1"
-		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"fgcolor_override"	"UberPercentageBG"
-		"font"			"UberPercentage"
-	}
+//	"ChargeLabelBG"
+//	{
+//		"ControlName"	"CExLabel"
+//		"fieldName"		"ChargeLabelBG"
+//		"xpos"			"c-44"
+//		"ypos"			"c36"
+//		"zpos"			"2"
+//		"wide"			"90"
+//		"tall"			"15"
+//		"autoResize"	"1"
+//		"pinCorner"		"2"
+//		"visible"		"1"
+//		"enabled"		"1"
+//		"tabPosition"	"0"
+//		"labelText"		"#TF_UberchargeMinHUD"
+//		"textAlignment"	"center"
+//		"dulltext"		"0"
+//		"brighttext"	"0"
+//		"fgcolor_override"	"UberPercentageBG"
+//		"font"			"UberPercentage"
+//	}
 
 	"IndividualChargesLabel"
 	{

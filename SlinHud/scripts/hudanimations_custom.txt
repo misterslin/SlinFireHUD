@@ -52,7 +52,8 @@ event HudLowAmmoPulse
 	Animate	HudWeaponLowAmmoImage		Alpha	"255"					Linear 0.0 		0.075
 	Animate	HudWeaponLowAmmoImage		Alpha	"0"						Linear 0.125 	0.075
 
-	Animate AmmoInReserve fgcolor "255 0 255 255" Linear 0.0 0.0
+	Animate AmmoInReserve fgcolor "200 0 0 255" Linear 0.0 0.0
+	Animate AmmoNoClip fgcolor "200 0 0 255" Linear 0.0 0.0
 
 	RunEvent HudLowAmmoPulseLoop	0.25
 }
@@ -68,7 +69,8 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 0.0
 	StopEvent HudLowAmmoPulseLoop 0.0
 
-	Animate	  AmmoInReserve		fgcolor		"HP"		Accel 0.0 0.0
+	Animate	  AmmoInReserve		fgcolor		"TanLight"		Accel 0.0 0.0
+	Animate AmmoNoClip fgcolor "TanLight" Linear 0.0 0.0
 }
 
 //===========================================
@@ -93,3 +95,20 @@ event HudMedicChargedStop
 
 }
 //===========================================
+event CompetitiveGame_LowerChatWindow
+{
+	Animate HudChat ypos r450 Accel 0 0
+}
+
+event CompetitiveGame_RestoreChatWindow
+{
+	Animate HudChat ypos r450 Accel 0 0
+}
+
+event HudTournament_MoveChatWindow
+{
+	RunEvent CompetitiveGame_LowerChatWindow 0
+	RunEvent CompetitiveGame_RestoreChatWindow 10
+}
+
+//--------------------------------------------------------------------------

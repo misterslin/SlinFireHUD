@@ -22,7 +22,7 @@ Scheme
 		//	"VaccinatorFg"			"0 255 255 255"			// Not in use	-mr xen
 		"VaccinatorBg"			"0 0 0 200"				// Vaccinator charge meter background colour	-mr xen
 
-		"HP"                  "255 255 255 255"
+		"HP"                  "235 226 202 255"
 		"HPBG"				"46 43 42 255"
 
 		"low HP"              "255 255 255 255"
@@ -37,7 +37,11 @@ Scheme
 		"Ammo in Clip"        "0 245 255 255"
 		"Ammo in Reserve"     "255 0 255 255"
 
+		"Damage Negative"      "255 255 30 255"
+		"Damage Positive"      "0 255 0 255"
+		
 		"Damage Numbers"      "255 255 30 255"
+		"Damage NumbersBG"      "0 0 0 255"
 
 		"Ubercharge Bar"      "255 255 255 255"
 
@@ -2979,7 +2983,6 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"44"
-				"tall_lodef"	"52"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2992,7 +2995,6 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"44"
-				"tall_lodef"	"52"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -3005,7 +3007,6 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"44"
-				"tall_lodef"	"52"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -3028,13 +3029,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Veranda"
 				"tall"		"14"
-				"tall_hidef"	"24"
-				"tall_lodef"	"18"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
+				"outline"	"1"
 			}
 		}
 		
@@ -3042,12 +3042,68 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
-				"tall"		"10"
-				"tall_hidef"	"24"
-				"tall_lodef"	"18"
+				"name"		"Veranda"
+				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"Damage16"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}		
+	
+		"Damage20"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"Damage26"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"26"
+				"antialias" "1"
+			}
+		}
+		
+		"Veranda12"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		"Veranda14"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		"Veranda18"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
