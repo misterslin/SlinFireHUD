@@ -35,3 +35,5 @@ things i wish looked like how it used to (including that nick thick font):
 nice-to-haves:
 > remove kill streak counters from everywhere cause I kind of don't care
 > remove any mention of "you did this much better than you did in your previous best round" (i.e. on death cam)
+> move the engineer build menu so it's not overlapping the chat. i don't know where to put it though... 
+> move the spy disguise menu to the other side so it doesn't block stream chat
