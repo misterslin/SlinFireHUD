@@ -6,10 +6,10 @@ event HudHealthBonusPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.2
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.2 0.4
 
-	Animate PlayerStatusHealthvalue         FgColor 	"67 161 246 255"          linear 0.0 0.0
-	Animate PlayerStatusHealthValueSpec	FgColor		"67 161 246 255"		Accel 0.0 0.0
+	Animate PlayerStatusHealthvalue         FgColor 	"buffed HP"          linear 0.0 0.0
+	Animate PlayerStatusHealthValueSpec	FgColor		"TargetID buffed HP"		Accel 0.0 0.0
 
-	Animate PlayerStatusHealthvalueTargetID FgColor		"67 161 246 255" linear 0.0 0.0
+	Animate PlayerStatusHealthvalueTargetID FgColor		"TargetID buffed HP" linear 0.0 0.0
 
       RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -29,10 +29,10 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.075
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.125 0.075
 
-	Animate PlayerStatusHealthvalue         FgColor 	"HP"          linear 0.0 0.0
-	Animate PlayerStatusHealthValueSpec	FgColor		"222 24 57 255"	Accel 0.0 0.0
+	Animate PlayerStatusHealthvalue         FgColor 	"low HP"          linear 0.0 0.0
+	Animate PlayerStatusHealthValueSpec	FgColor		"TargetID low HP"	Accel 0.0 0.0
 
-	Animate PlayerStatusHealthvalueTargetID FgColor "255 255 255 255" linear 0.0 0.0
+	Animate PlayerStatusHealthvalueTargetID FgColor "TargetID low HP" linear 0.0 0.0
 
 	RunEvent HudHealthDyingPulseLoop	0.25
 }

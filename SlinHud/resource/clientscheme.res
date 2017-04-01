@@ -25,14 +25,14 @@ Scheme
 		"HP"                  "235 226 202 255"
 		"HPBG"				"46 43 42 255"
 
-		"low HP"              "255 255 255 255"
-		"buffed HP"           "255 255 255 255"
+		"low HP"              "222 24 57 255"
+		"buffed HP"           "67 161 246 255"
 		
 		"UberPercentage"	"0 255 255 255"
 		"UberPercentageBG"	"255 255 255 255"
 
-		"TargetID low HP"     "255 210 160 255"
-		"TargetID buffed HP"  "0 255 0 255"
+		"TargetID low HP"     "222 24 57 255"
+		"TargetID buffed HP"  "67 161 246 255"
 
 		"Ammo in Clip"        "0 245 255 255"
 		"Ammo in Reserve"     "255 0 255 255"
@@ -3038,6 +3038,20 @@ Scheme
 			}
 		}
 		
+		"UberPercentage2"
+		{
+			"1"
+			{
+				"name"		"Veranda"
+				"tall"		"15"
+				"weight"	"500"
+				"blur"		"1"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		
 		"UberTracker"
 		{
 			"1"
@@ -3090,6 +3104,33 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"Veranda8"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		"Veranda10"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}		
+		"Veranda11"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
 		
 		"Veranda12"
 		{
@@ -3115,6 +3156,24 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"18"
+				"antialias" "1"
+			}
+		}		
+		"Target"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		"TF248"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"48"
 				"antialias" "1"
 			}
 		}

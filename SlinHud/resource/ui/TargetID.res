@@ -124,7 +124,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Veranda12"
+		"font"			"Veranda8"
 		"xpos"			"45"
 		"ypos"			"28"	
 		"zpos"			"6"

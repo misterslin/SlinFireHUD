@@ -67,8 +67,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"font" 			"Veranda18"
-		"fgcolor"		"Health Normal"
+		"font" 			"Target"
+		"fgcolor"		"White"
 		"textAlignment"	"center"	
 	}
 	"PlayerStatusHealthValueBackground"
@@ -83,7 +83,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"font" 			"Veranda18"
+		"font" 			"Target"
 		"fgcolor"		"0 0 0 255"
 		"textAlignment"	"center"	
 	}
