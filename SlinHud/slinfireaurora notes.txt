@@ -7,6 +7,9 @@ gameplay
 main menu
 > remove featured box cause the man is trying to sell me stuff again
 
+demoman
+> sticky counter seems out of place (top left), should be under crosshair where uber charge is on medic
+> remove the charge bar from the screen (currently bottom right)
 medic
 > ubercharge percentage needs to be like the old one (font etc.)
 > enemy uber tracking percentage numbers could be a little closer together
