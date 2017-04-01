@@ -67,7 +67,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"font" 			"Veranda18"
+		"font" 			"Target"
 		"fgcolor"		"White"
 		"textAlignment"	"center"	
 	}
@@ -83,7 +83,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"font" 			"Veranda18"
+		"font" 			"Target"
 		"fgcolor"		"0 0 0 255"
 		"textAlignment"	"center"	
 	}

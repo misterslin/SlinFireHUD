@@ -5,10 +5,10 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"	"68"	[$WIN32]
-		"ypos"	"r40"	[$WIN32]
+		"xpos"	"235"	[$WIN32]
+		"ypos"	"r102"	[$WIN32]
 		"wide"			"100"
-		"tall"			"50"
+		"tall"			"102"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -43,8 +43,8 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_KillStreak"
 		"textAlignment"			"center"
@@ -76,8 +76,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"25"
-		"ypos"			"18"
+		"xpos"					"0"
+		"ypos"			"0"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -86,7 +86,7 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
-		"textAlignment"			"north"
+		"textAlignment"			"north-west"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"			"HudFontSmall"

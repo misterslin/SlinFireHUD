@@ -3038,6 +3038,20 @@ Scheme
 			}
 		}
 		
+		"UberPercentage2"
+		{
+			"1"
+			{
+				"name"		"Veranda"
+				"tall"		"15"
+				"weight"	"500"
+				"blur"		"1"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		
 		"UberTracker"
 		{
 			"1"
@@ -3090,6 +3104,33 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"Veranda8"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		"Veranda10"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}		
+		"Veranda11"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
 		
 		"Veranda12"
 		{
@@ -3115,6 +3156,24 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"18"
+				"antialias" "1"
+			}
+		}		
+		"Target"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		"TF248"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"48"
 				"antialias" "1"
 			}
 		}

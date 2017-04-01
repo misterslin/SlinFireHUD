@@ -3,7 +3,7 @@
 	"Version"
 	{
 		"label"			"Slin HUD Version 4.0 3/30/2017"
-		"command"		"engine showconsole; echo clear; echo slin sucks;"
+		"command"		"engine showconsole;echo slin sucks;"
 		"OnlyAtMenu"	"1"
 	}
 	"ResumeGameButton"
