@@ -25,14 +25,14 @@ Scheme
 		"HP"                  "235 226 202 255"
 		"HPBG"				"46 43 42 255"
 
-		"low HP"              "255 255 255 255"
-		"buffed HP"           "255 255 255 255"
+		"low HP"              "222 24 57 255"
+		"buffed HP"           "67 161 246 255"
 		
 		"UberPercentage"	"0 255 255 255"
 		"UberPercentageBG"	"255 255 255 255"
 
-		"TargetID low HP"     "255 210 160 255"
-		"TargetID buffed HP"  "0 255 0 255"
+		"TargetID low HP"     "222 24 57 255"
+		"TargetID buffed HP"  "67 161 246 255"
 
 		"Ammo in Clip"        "0 245 255 255"
 		"Ammo in Reserve"     "255 0 255 255"

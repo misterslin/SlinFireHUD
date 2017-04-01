@@ -16,8 +16,15 @@ target IDs
 > really i just want old one back lol (but I will comprmise)
 
 bugs:
-> randomly when I spawn in casual mode, target ID health unbuffed will be green. other times it will be white. 
->>Fix: white for unbuffed hp. red for hurt, blue for buffed.
+> randomly when I spawn in casual mode, target ID health unbuffed will be green. other times it will be white. >>
+>>Fix: white for unbuffed hp. red for hurt, blue for buffed.>>
 
 mainmenu
 >version
+
+engi>>
+weapon meters
+team indicator behind health
+move and fix spy disguise thing away from chat
+move kill streak thing away from chat
+minimal respawn hud only

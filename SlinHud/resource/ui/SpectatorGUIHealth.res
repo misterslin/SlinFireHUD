@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"font" 			"Veranda18"
-		"fgcolor"		"Health Normal"
+		"fgcolor"		"White"
 		"textAlignment"	"center"	
 	}
 	"PlayerStatusHealthValueBackground"
