@@ -70,6 +70,9 @@ Have fun!!
 
 SlinHUD Change Log
 
+v3.01 (April 1, 2017)
+-SlinFire HUD updated by Aurora with Slin's notes
+
 v3.00 (March 27, 2017) 
 -SlinFire HUD is now in GitHub! Big thanks to Aurora (Aura_tf on Twitch) for making this happen!
 
