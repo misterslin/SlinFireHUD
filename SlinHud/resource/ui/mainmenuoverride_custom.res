@@ -68,8 +68,8 @@
 		"xpos"			"c-290"
 		"ypos"			"210"
 		"zpos"			"-50"
-		"wide"			"270"
-		"tall"			"140"
+		"wide"			"0" // "270"
+		"tall"			"0" // "140"
 		"visible"		"1"
 
 		"Background"

@@ -4,47 +4,29 @@ slinfireaura notes
 
 
 NEW NOTES
-
-
-
-
-main menu
-> remove featured box cause the man is trying to sell me stuff again
+> badges on win screen don't fit inside the box in casual mode (maybe comp too)
 
 demoman
 > sticky counter seems out of place (top left), should be under crosshair where uber charge is on medic
 > remove the charge bar from the screen (currently bottom right)
 
 
-medic
-> ubercharge percentage needs to be like the old one (font etc.)
-> enemy uber tracking percentage numbers could be a little closer together
-
 target IDs
 > bold the health values
 > on death screen, make the health number more legible (bold?)
 > really i just want old one back lol
 
-bugs:
-> randomly when I spawn in casual mode, target ID health unbuffed will be green. other times it will be white. 
->>Fix: white for unbuffed hp. red for hurt, blue for buffed.
 
 
-weapon meters
-team indicator behind health
-health icons>> still a little iffy
+
 
 things i wish looked like how it used to (including that nick thick font):
 > target IDs and medic extra target ID
 > spectator HUD / tournament spectator HUD
 > death screen aka when you get killed and you see a quick picture of your enemy + health
-> scoreboard. i updated your scoreboard with my old file and i think it's fixed - this was the worst slin lol, your old scoreboard was so broken
-> kill feed... i'm still convinced it's different - the font was but im gonna make u live with it
-> color-coded health everywhere: red = hurt, white = unbuffed, blue = buffed - think I did it all
 > team selection screen (i can't see what's going on in game with the default)
 > class selection screen (i can't see what's going on in game with the default)
 
 nice-to-haves:
-> remove kill streak counters from everywhere cause I kind of don't care
 > remove any mention of "you did this much better than you did in your previous best round" (i.e. on death cam)
 > move the engineer build menu so it's not overlapping the chat. i don't know where to put it though... 
