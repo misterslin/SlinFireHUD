@@ -1,2 +1,2 @@
-#base	"mainmenuoverride_base.res"
 #base	"mainmenuoverride_custom.res"
+#base	"mainmenuoverride_base.res"
