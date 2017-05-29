@@ -150,11 +150,6 @@
 		"enabled"		"0"
 		"image"			"../hud/score_panel_red_bg_solid"
 		"scaleImage"		"1"
-
-		if_mvm
-		{
-			"visible"		"0"
-		}
 	}
 	"RedTeamImage"
 	{
@@ -246,7 +241,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScore"
-		"font"			"ScoreboardTeamScoreNew"
+		"font"			"Score50"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		"xpos"			"175"
@@ -268,7 +263,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScoreDropshadow"
-		"font"			"ScoreboardTeamScoreNew"
+		"font"			"Score50"
 		"fgcolor"		"Black"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
@@ -307,7 +302,23 @@
 		{
 			"visible"		"0"
 		}
-	}							
+	}
+	"CountTeamIndicatorBlue"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"CountTeamIndicatorBlue"
+		"xpos"			"80"
+		"ypos"			"57"
+		"zpos"			"2"
+		"wide"			"60"
+		"tall"			"2"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"	
+		"fillcolor"		"88 133 162"
+	}	
 	"RedTeamLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -334,7 +345,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScore"
-		"font"			"ScoreboardTeamScoreNew"
+		"font"			"Score50"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
 		"xpos"			"368"
@@ -356,7 +367,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScoreDropshadow"
-		"font"			"ScoreboardTeamScoreNew"
+		"font"			"Score50"
 		"fgcolor"		"Black"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
@@ -395,6 +406,22 @@
 		{
 			"visible"		"0"
 		}
+	}
+	"CountTeamIndicatorRed"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"CountTeamIndicatorRed"
+		"xpos"			"501"
+		"ypos"			"57"
+		"zpos"			"2"
+		"wide"			"60"
+		"tall"			"2"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"	
+		"fillcolor"		"184 56 59"
 	}
 	"ServerLabel"
 	{
@@ -648,17 +675,12 @@
 		"xpos_lodef"	"12"
 		"ypos"			"350"
 		"zpos"			"3"
-		"wide"			"92"
-		"tall"			"92"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"	
-		
-		if_mvm
-		{
-			"visible"		"1"
-		}
 	}
 	"classmodelpanel"
 	{
@@ -889,14 +911,8 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		
-		if_mvm
-		{
-			"visible"		"1"
-			"wide"			"175"
-		}
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"ServerLabelNew"
 	{
@@ -904,9 +920,9 @@
 		"fieldName"		"ServerLabelNew"
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%server%"
-		"textAlignment"		"east"
-		"xpos"			"315"
-		"ypos"			"375"
+		"textAlignment"		"west"
+		"xpos"			"5"
+		"ypos"			"385"
 		"zpos"			"3"
 		"wide"			"265"
 		"tall"			"12"
@@ -927,7 +943,7 @@
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%mapname%"
 		"textAlignment"	"east"
- 		"xpos"			"315"
+ 		"xpos"			"365"
 		"ypos"			"385"
 		"zpos"			"3"
 		"wide"			"265"

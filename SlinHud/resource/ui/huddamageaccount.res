@@ -9,8 +9,8 @@
 		"PositiveColor"			"Damage Positive" 
 		"NegativeColor"			"Damage Negative" 
 		"delta_lifetime"		"2.0"
-		"delta_item_font"		"Damage16"
-		"delta_item_font_big"	"Damage20"
+		"delta_item_font"		"2Damage16"
+		"delta_item_font_big"	"2Damage20"
 	}
 	
 	"DamageAccountValue"
@@ -27,7 +27,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"		"Damage Numbers"
-		"font"		"Damage35"
+		"font"		"2Damage35"
 	}
 	
 	"DamageAccountValueBG"
@@ -44,6 +44,6 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"		"Damage NumbersBG"
-		"font"		"Damage26"
+		"font"		"2Damage26"
 	}
 }

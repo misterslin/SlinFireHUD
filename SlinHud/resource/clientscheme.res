@@ -3064,6 +3064,18 @@ Scheme
 			}
 		}
 		
+		"Score50"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"50"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
 		"Damage16"
 		{
 			"1"
@@ -3099,6 +3111,46 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
+				"tall"		"35"
+				"weight"	"900"
+				"antialias" "1"
+			}
+		}		
+		"2Damage16"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}		
+	
+		"2Damage20"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"2Damage26"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"26"
+				"antialias" "1"
+			}
+		}
+
+		"2Damage35"
+		{
+			"1"
+			{
+				"name"		"TF2"
 				"tall"		"35"
 				"weight"	"900"
 				"antialias" "1"
@@ -3168,11 +3220,121 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"TF28"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		"TF210"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}		
+		"TF211"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
+		
+		"TF212"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		"TF214"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		"TF218"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
 		"TF248"
 		{
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}		
+		"TF10"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}		
+		"TF11"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
+		
+		"TF12"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		"TF14"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		"TF18"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		"TF48"
+		{
+			"1"
+			{
+				"name"		"TF2"
 				"tall"		"48"
 				"antialias" "1"
 			}
