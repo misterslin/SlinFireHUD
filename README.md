@@ -70,7 +70,7 @@ Have fun!!
 
 SlinHUD Change Log
 
-v3.02 (May 29, 2017
+v3.02 (May 29, 2017)
 -SlinFire HUD updated by Aurora with new class changing and team changing screens
 
 v3.01 (April 1, 2017)
