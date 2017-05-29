@@ -601,7 +601,7 @@
 		"pinCorner"					"0"
 		"visible"					"1"
 		"enabled"					"1"
-		"labelText"					"HIGHEST KILLSTREAK"
+		"labelText"					"Highest Killstreak"
 		"textAlignment"				"east"
 		"dulltext"					"0"
 		"brighttext"				"0"
@@ -710,7 +710,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"Player1Badge"
-		"xpos"			"25"
+		"xpos"			"40"
 		"ypos"			"100"
 		"zpos"			"3"
 		"wide"			"17"
@@ -724,7 +724,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"Player2Badge"
-		"xpos"			"25"
+		"xpos"			"40"
 		"ypos"			"111"
 		"zpos"			"3"
 		"wide"			"17"
@@ -738,7 +738,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"Player3Badge"
-		"xpos"			"25"
+		"xpos"			"40"
 		"ypos"			"122"
 		"zpos"			"3"
 		"wide"			"17"
@@ -752,7 +752,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"KillStreakPlayer1Badge"
-		"xpos"			"25"
+		"xpos"			"40"
 		"ypos"			"143"
 		"zpos"			"3"
 		"wide"			"17"
