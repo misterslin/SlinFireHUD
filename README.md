@@ -18,7 +18,7 @@ If you directly copy + paste these files, you will have a lot of things that you
 
 This download includes the following:
 -My config files, including my key binds and scripts (autoexec, class scripts, etc.) (Updated October 13, 2016)
--Slinfire HUD v3.00 (Updated March 27, 2017)
+-Slinfire HUD v3.02 (Updated May 29, 2017)
 -My hitsound (a Quake 3 hitsound that changes pitch based on damage done)
 
 ****************************
@@ -69,6 +69,9 @@ Have fun!!
 
 
 SlinHUD Change Log
+
+v3.02 (May 29, 2017
+-SlinFire HUD updated by Aurora with new class changing and team changing screens
 
 v3.01 (April 1, 2017)
 -SlinFire HUD updated by Aurora with Slin's notes
