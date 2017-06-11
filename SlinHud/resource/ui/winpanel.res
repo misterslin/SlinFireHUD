@@ -302,10 +302,10 @@
 	{
 		"ControlName"				"ScalableImagePanel"
 		"fieldName"					"ShadedBar"
-		"xpos"						"60"
+		"xpos"						"45"
 		"ypos"						"91"
 		"zpos"						"2"
-		"wide"						"170"
+		"wide"						"200"
 		"tall"						"71"
 		"autoResize"				"0"
 		"pinCorner"					"0"
@@ -710,7 +710,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"Player1Badge"
-		"xpos"			"40"
+		"xpos"			"45"
 		"ypos"			"100"
 		"zpos"			"3"
 		"wide"			"17"
@@ -724,7 +724,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"Player2Badge"
-		"xpos"			"40"
+		"xpos"			"45"
 		"ypos"			"111"
 		"zpos"			"3"
 		"wide"			"17"
@@ -738,7 +738,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"Player3Badge"
-		"xpos"			"40"
+		"xpos"			"45"
 		"ypos"			"122"
 		"zpos"			"3"
 		"wide"			"17"
@@ -752,7 +752,7 @@
 	{
 		"ControlName"	"CTFBadgePanel"
 		"fieldName"		"KillStreakPlayer1Badge"
-		"xpos"			"40"
+		"xpos"			"45"
 		"ypos"			"143"
 		"zpos"			"3"
 		"wide"			"17"
