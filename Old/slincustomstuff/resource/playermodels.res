@@ -1,9 +1,0 @@
-"models"
-{
-	"players"
-	{
-	}
-	"groups"
-	{
-	}
-}
