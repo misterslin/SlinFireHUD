@@ -1,0 +1,9 @@
+Full Suport for #base and auto updating
+Move engineer buildings down to prevent overlap with stream labs event list
+Move casual respawn time and casual map name to stop over lap with logo and stream labs event list
+Make winpanel wider for badges
+Charge bars
+Make killer target ID health readable 
+Make class selection wide enough so class limit labels dont overlap
+Vaccinator Check
+Scoreboard rework
