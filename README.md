@@ -70,6 +70,9 @@ Have fun!!
 
 SlinHUD Change Log
 v3.04 (June 11, 2017)
+-Demoman charge meter was overlaping with loose cannon charge meter
+
+v3.04 (June 11, 2017)
 -Full support for charge bars and weapon counts
 -Better #base folder structure
 -Made killer freeze panel (the thing that you see when someone kills you) health more readable
