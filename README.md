@@ -69,6 +69,12 @@ Have fun!!
 
 
 SlinHUD Change Log
+v3.03 (June 11, 2017)
+-Moved respawn timer to prevent overlap on stream :)
+-Moved Engineer building status elements to prevent overlap with chat
+-Fixed Huntsman having two charge bars
+-Minor changes to team selection and class selection
+-Removed old files
 
 v3.02 (May 29, 2017)
 -SlinFire HUD updated by Aurora with new class changing and team changing screens
