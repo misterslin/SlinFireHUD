@@ -16,10 +16,10 @@ If you directly copy + paste these files, you will have a lot of things that you
 
 ****************************
 
-This download includes the following:
--My config files, including my key binds and scripts (autoexec, class scripts, etc.) (Updated October 13, 2016)
--Slinfire HUD v3.03 (Updated June 11, 2017)
--My hitsound (a Quake 3 hitsound that changes pitch based on damage done)
+This download includes the following:  
+-My config files, including my key binds and scripts (autoexec, class scripts, etc.) (Updated October 13, 2016)  
+-Slinfire HUD v3.03 (Updated June 11, 2017)  
+-My hitsound (a Quake 3 hitsound that changes pitch based on damage done)  
 
 ****************************
 
