@@ -292,7 +292,7 @@
 		"xpos"		"0"
 		"xpos_hidef"		"32"
 		"xpos_lodef"		"40"
-		"ypos"		"0"
+		"ypos"		"80"
 		"ypos_hidef"		"16"
 		"ypos_lodef"		"25"
 		"wide"		"640"

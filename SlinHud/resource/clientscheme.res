@@ -3338,6 +3338,70 @@ Scheme
 				"tall"		"48"
 				"antialias" "1"
 			}
+		}		
+		"TFS10"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}		
+		"TFS11"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
+		
+		"TFS12"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		"TFS14"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}		
+		"TFS16"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		"TFS18"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		"TFS48"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"48"
+				"antialias" "1"
+			}
 		}
 	}
 

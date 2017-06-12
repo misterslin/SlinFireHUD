@@ -1,0 +1,8 @@
+Move casual respawn time and casual map name to stop over lap with logo and stream labs event list
+Charge bars
+Make killer target ID health readable 
+Vaccinator Icon fix - currently in top left of screen
+
+Scoreboard rework and MVM Scoreboard fix
+Rework chat
+Full Suport for #base and auto updating

@@ -1,5 +1,0 @@
-1. install the hud
-2. replace the alternate health bvlue
-3. replace the scoreboard
-4. make sure the crosshair is properly placed in scripts/hudlayout.res
-5. replace the kill notices (hudkillnotice) in scripts/hudlayout.res
