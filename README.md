@@ -18,7 +18,7 @@ If you directly copy + paste these files, you will have a lot of things that you
 
 This download includes the following:  
 -My config files, including my key binds and scripts (autoexec, class scripts, etc.) (Updated October 13, 2016)  
--Slinfire HUD v3.03 (Updated June 11, 2017)  
+-Slinfire HUD v3.04 (Updated June 11, 2017)  
 -My hitsound (a Quake 3 hitsound that changes pitch based on damage done)  
 
 ****************************
@@ -68,7 +68,13 @@ Have fun!!
 
 
 
-SlinHUD Change Log  
+SlinHUD Change Log
+v3.04 (June 11, 2017)
+-Full support for charge bars and weapon counts
+-Better #base folder structure
+-Made killer freeze panel (the thing that you see when someone kills you) health more readable
+-Fixed vaccinator icon positioning (now in the middle of the screen)
+
 v3.03 (June 11, 2017)  
 -Moved respawn timer to prevent overlap on stream :)  
 -Moved Engineer building status elements to prevent overlap with chat  
