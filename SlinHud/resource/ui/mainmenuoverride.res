@@ -1,2 +1,2 @@
-#base	"mainmenuoverride_custom.res"
-#base	"mainmenuoverride_base.res"
+#base	"..\..\custom\resource\ui\mainmenuoverride.res"
+#base	"..\..\tf2hud\resource\ui\mainmenuoverride.res"

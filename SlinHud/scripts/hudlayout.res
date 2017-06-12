@@ -91,18 +91,13 @@
 	HudBowCharge
 	{
 		"fieldName"		"HudBowCharge"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
+		"visible"		"0"
+		"enabled"		"0"
+		"xpos"			"0"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"wide_minmode"	"50"
-		"tall"			"8"
+		"wide"			"0"
+		"tall"			"0"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -222,7 +217,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"c-75"	[$WIN32]
-		"ypos"		"r110"	[$WIN32]
+		"ypos"		"r112"	[$WIN32]
 		"wide"		"150"
 		"tall"		"200"
 	}

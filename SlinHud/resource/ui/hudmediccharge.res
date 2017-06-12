@@ -220,34 +220,31 @@
 		"scaleImage"	"1"	
 	}	
 	
+	"ResistIconAnchor"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"ResistIconAnchor"
+		"xpos"			"c-10"
+		"ypos"			"c60"
+		"wide"			"20"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+	}
 	"ResistIcon"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ResistIcon"
-		"xpos"			"c-10"
-		"ypos"			"c40"
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"scaleImage"	"1"	
-		
-		"pin_to_sibling" "IconPin"
-		"pin_corner_to_sibling" "1"
-		"pin_to_sibling_corner" "1"
-	}
-	
-	"IconPin"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"	"IconPin"
-		"xpos"			"c-10"
-		"ypos"			"c40"
-		"wide"			"20"
-		"tall"			"20"
-		"visible"	"1"
-		"enabled"	"1"
-	}
-	
+		"pin_to_sibling"               "ResistIconAnchor"
+		"pin_corner_to_sibling"        "1"          
+		"pin_to_sibling_corner"        "1" 
+	}	
 }
