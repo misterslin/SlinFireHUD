@@ -225,12 +225,12 @@
 		"xpos"			"80"
 		"ypos"			"21"
 		"zpos"			"20"
-		"wide"			"160"
-		"tall"			"23"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		
 		if_mvm
 		{
@@ -264,7 +264,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScoreDropshadow"
 		"font"			"Score50"
-		"fgcolor"		"Black"
+		"fgcolor"		"TeamBlue"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		"xpos"			"176"
@@ -295,30 +295,14 @@
 		"tall"			"15"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		
 		if_mvm
 		{
 			"visible"		"0"
 		}
 	}
-	"CountTeamIndicatorBlue"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"CountTeamIndicatorBlue"
-		"xpos"			"80"
-		"ypos"			"57"
-		"zpos"			"2"
-		"wide"			"60"
-		"tall"			"2"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
-		"fillcolor"		"88 133 162"
-	}	
 	"RedTeamLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -329,12 +313,12 @@
 		"xpos"			"401"
 		"ypos"			"21"
 		"zpos"			"20"
-		"wide"			"160"
-		"tall"			"23"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		
 		if_mvm
 		{
@@ -368,7 +352,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScoreDropshadow"
 		"font"			"Score50"
-		"fgcolor"		"Black"
+		"fgcolor"		"TeamRed"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
 		"xpos"			"369"
@@ -399,29 +383,13 @@
 		"tall"			"15"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		
 		if_mvm
 		{
 			"visible"		"0"
 		}
-	}
-	"CountTeamIndicatorRed"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"CountTeamIndicatorRed"
-		"xpos"			"501"
-		"ypos"			"57"
-		"zpos"			"2"
-		"wide"			"60"
-		"tall"			"2"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
-		"fillcolor"		"184 56 59"
 	}
 	"ServerLabel"
 	{
