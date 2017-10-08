@@ -3115,6 +3115,15 @@ Scheme
 				"weight"	"900"
 				"antialias" "1"
 			}
+		}	
+		"UberSpec"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"10"
+				"antialias" "1"
+			}
 		}		
 		"2Damage16"
 		{
@@ -3217,6 +3226,15 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		"Target2"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"16"
 				"antialias" "1"
 			}
 		}

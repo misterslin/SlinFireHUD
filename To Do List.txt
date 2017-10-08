@@ -1,3 +1,12 @@
 Scoreboard rework and MVM Scoreboard fix
 Rework chat
-Full Suport for #base and auto updating
+sort #base directory to allow for auto updater
+add autoupdated for #base
+
+Unifed charge meter bar colors using clientscheme defined colors
+Unifed guihealth colors using clientscheme defined colors
+inspect panel is broken?
+ADD INSPECT PANEL AS DROP DOWN TO KILLER TARGET ID
+winpanl - points > 100 overlaps with demoman - can move to left becuase of wider scoreboard or change text anlinment
+tournament hud
+elements of payload ui overlap with many things
