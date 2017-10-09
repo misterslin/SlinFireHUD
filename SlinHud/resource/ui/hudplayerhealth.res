@@ -1,3 +1,4 @@
+#base "test.res"
 "Resource/UI/HudPlayerHealth.res"
 {	
 	// player health data
