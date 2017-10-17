@@ -14,3 +14,5 @@ respawn timer overlaps with scoreboard, move behind casual ui as it goes away wh
 make highligh of yourself in the casual ui more visable
 make background of casul ui solid so you dont see the respawn time through it
 killer target id 300 hp is chopped of to the right
+
+raw hud base chat were?
