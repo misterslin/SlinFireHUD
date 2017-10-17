@@ -2,7 +2,7 @@
 {
 	"Version"
 	{
-		"label"			"Slin HUD Version 4.0 3/30/2017"
+		"label"			"Slin HUD Version 17/10/2017"
 		"command"		"engine showconsole;echo slin sucks;"
 		"OnlyAtMenu"	"1"
 	}

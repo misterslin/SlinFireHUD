@@ -1,12 +1,18 @@
-Scoreboard rework and MVM Scoreboard fix
+Scoreboard rework and MVM Scoreboard fix - finish pin corner and auto wide - DUEL ICON sort out positioning
 Rework chat
 sort #base directory to allow for auto updater
 add autoupdated for #base
 
-Unifed charge meter bar colors using clientscheme defined colors
-Unifed guihealth colors using clientscheme defined colors
-inspect panel is broken?
-ADD INSPECT PANEL AS DROP DOWN TO KILLER TARGET ID
-winpanl - points > 100 overlaps with demoman - can move to left becuase of wider scoreboard or change text anlinment
-tournament hud
-elements of payload ui overlap with many things
+
+Unifed guihealth colors using clientscheme defined colors and fonts
+
+winpanl - points > 100 overlaps with demoman - can move to left becuase of wider scoreboard or change text anlinment//auto wide to contents
+tournament hud finish
+elements of payload ui overlap with many things - make it so when minmode is off the cart is really big but when on everything is small
+mvm and ctf stuff overlap charge meters?
+respawn timer overlaps with scoreboard, move behind casual ui as it goes away when you press tab
+make highligh of yourself in the casual ui more visable
+make background of casul ui solid so you dont see the respawn time through it
+killer target id 300 hp is chopped of to the right
+
+raw hud base chat were?
