@@ -257,6 +257,27 @@
 		"brighttext"				"0"
 	}
 	
+	"WinningTeamLabelDropshadow"
+	{	
+		"ControlName"		"CExLabel"
+		"fieldName"		"WinningTeamLabelDropshadow"
+		"font"			"ScoreboardTeamName"
+		"fgcolor"		"black"
+		"xpos"			"16"
+		"ypos"			"73"
+		"zpos"			"1"
+		"wide"			"268"
+		"tall"			"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"labelText"		"%WinningTeamLabel%"
+		"textAlignment"		"Center"
+		"dulltext"		"0"
+		"brighttext"		"0"
+	}
+	
 	"AdvancingTeamLabel"
 	{
 		"ControlName"				"CExLabel"
