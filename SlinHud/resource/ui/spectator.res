@@ -1,2 +1,2 @@
-#base	"..\..\custom\resource\ui\specator.res"
-#base	"..\..\tf2hud\resource\ui\specator.res"
+#base	"..\..\custom\resource\ui\spectator.res"
+#base	"..\..\tf2hud\resource\ui\spectator.res"
