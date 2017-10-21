@@ -349,7 +349,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"&5  ｐ ｏ ｏ ｔ ｉ ｓ"
+		"labelText"			"&5  Heavy"
 		"textAlignment"		"west"
 		"Command"			"select 6"
 		"Default"			"0"

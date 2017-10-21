@@ -95,16 +95,16 @@
  	{
  		"ControlName"	"CExLabel"
  		"fieldName"		"PlayerStatusMaxHealthValue"
- 		"xpos"			"76"
- 		"ypos"			"20"	[$WIN32]
- 		"zpos"			"6"
- 		"wide"			"50"
- 		"tall"			"18"
+		"xpos"			"c-214"
+		"ypos"			"r99"
+		"zpos"			"6"
+		"wide"			"30"
+		"tall"			"30"
  		"visible"		"1"
  		"enabled"		"1"
  		"labelText"		"%MaxHealth%"
  		"textAlignment"	"center"	
- 		"font"			"DefaultSmall"
+ 		"font"			"TF212"
  		"fgcolor"		"TanDark"
  	}
 	
