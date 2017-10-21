@@ -91,6 +91,23 @@
 		"fgcolor"		"HPBG"
 	}
 	
+	"PlayerStatusMaxHealthValue"
+ 	{
+ 		"ControlName"	"CExLabel"
+ 		"fieldName"		"PlayerStatusMaxHealthValue"
+		"xpos"			"c-214"
+		"ypos"			"r99"
+		"zpos"			"6"
+		"wide"			"30"
+		"tall"			"30"
+ 		"visible"		"1"
+ 		"enabled"		"1"
+ 		"labelText"		"%MaxHealth%"
+ 		"textAlignment"	"center"	
+ 		"font"			"TF212"
+ 		"fgcolor"		"TanDark"
+ 	}
+	
 	//Status Icons
 	"StatusIconsFix"
 	{
@@ -631,4 +648,41 @@
 		"pin_corner_to_sibling" "1"
 		"pin_to_sibling_corner" "1"
 	}
+	
+	"PlayerStatusGasImage"
+ 	{
+ 		"ControlName"	"ImagePanel"
+ 		"fieldName"		"PlayerStatusGasImage"
+		"xpos"	"70"
+		"ypos"			"-2"
+ 		"zpos"			"7"
+		"wide"			"16"
+		"tall"			"16"
+ 		"visible"		"1"
+ 		"enabled"		"1"
+ 		"scaleImage"	"1"	
+ 		"image"			"../vgui/covered_in_gas"
+ 		"fgcolor"		"TanDark"
+		"pin_to_sibling" "StatusIconFix"
+		"pin_corner_to_sibling" "1"
+		"pin_to_sibling_corner" "1"
+ 	}
+ 	"PlayerStatusSlowed"
+ 	{
+ 		"ControlName"	"ImagePanel"
+ 		"fieldName"		"PlayerStatusSlowed"
+		"xpos"	"70"
+		"ypos"			"-2"
+ 		"zpos"			"7"
+		"wide"			"16"
+		"tall"			"16"
+ 		"visible"		"1"
+ 		"enabled"		"1"
+ 		"scaleImage"	"1"	
+ 		"image"			"../vgui/slowed"
+ 		"fgcolor"		"TanDark"
+		"pin_to_sibling" "StatusIconFix"
+		"pin_corner_to_sibling" "1"
+		"pin_to_sibling_corner" "1"
+ 	}
 }
