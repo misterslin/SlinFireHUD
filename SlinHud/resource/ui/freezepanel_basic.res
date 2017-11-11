@@ -96,7 +96,7 @@
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"HudFontSmall"
 			"xpos"			"0"
-			"textinsetx"	"5"
+//			"textinsetx"	"5"
 			"ypos"			"0"
 			"zpos"			"5"
 			"tall"			"18"

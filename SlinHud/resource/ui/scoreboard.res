@@ -73,6 +73,11 @@
 			
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
+		
+		"if_mvm"
+		{
+			"visible"	"0"
+		}
 	}
 	"BlueScoreBG"
 	{
@@ -621,27 +626,24 @@
 	}							
 	"ShadedBar"
 	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"ShadedBar"
-		"xpos"			"4"
+		"ControlName"		"ScalableImagePanel"
+		"fieldName"		"PlayerListBackground"
+		"xpos"			"25"
 		"ypos"			"372"
-		"zpos"			"-2"
-		"wide"			"0"
-		"tall"			"0"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		"zpos"			"-1"
+		"wide"			"550"
+		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"	
-		"fillcolor"		"0 0 0 153"
-		"PaintBackgroundType"	"0"
+		"image"			"../hud/tournament_panel_brown"
 		
-		if_mvm
-		{
-			"visible"		"1"
-			"wide"			"633"
-			"tall"			"72"
-		}
+		"scaleImage"		"1"
+		
+		"src_corner_height"	"22"				// pixels inside the image
+		"src_corner_width"	"22"
+	
+		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"5"	
 	}
 	"ClassImage"
 	{
@@ -671,20 +673,13 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		
 		"render_texture"	"0"
 		"fov"			"12"
 		"allow_rot"		"1"
 
 		"disable_speak_event"	"1"
-
-		if_mvm
-		{
-			"visible"		"0"
-			"wide"			"130"
-			"tall"			"260"
-		}
 
 		"model"
 		{
@@ -959,9 +954,9 @@
 		"fillcolor"		"127 127 127 153"
 		"PaintBackgroundType"	"0"
 		
-		if_mvm
+		"if_mvm"
 		{
-			"visible"		"1"
+			"visible"	"0"
 		}
 	}
 	"PlayerScoreLabel"
@@ -1217,6 +1212,7 @@
 		if_mvm
 		{
 			"visible"		"1"
+			"ypos"			"400"
 		}
 
 		"KillsLabel"

@@ -74,6 +74,51 @@
 		"selectonhover"			"1"
 		"keyboardinputenabled"	"0"			
 	}
+	
+	"randomButton"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"randomButton"
+		"xpos"				"99999999999"
+		"ypos"				"99999999999"
+		"zpos"				"6"
+		"wide"				"0"
+		"tall"				"0"
+		"autoResize"		"0"
+		"pinCorner"			"2"
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
+		"labelText"			"&r"
+		"textAlignment"		"west"
+		"Command"			"select 12"
+		"Default"			"1"
+		"font"				"TF211"
+		"scaleImage"		"1"
+		
+		"image_default"		"class_sel_sm_random_inactive"
+		"image_armed"		"class_sel_sm_random_inactive"
+		
+		"fgcolor"			"TanLight"
+		"defaultFgColor_override" "TanLight"
+		"armedFgColor_override" "40 40 40 255"
+		"depressedFgColor_override" "10 10 10 255"
+		"selectedFgColor_override" "40 40 40 255"
+		
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_armed"		"UI/buttonrollover.wav"
+		
+		"paintbackground"	"0"
+		
+		"image_drawcolor"		"255 255 255 180"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"	"255 255 255 255"
+		
+		"stayselectedonclick"	"1"
+		"selectonhover"			"1"
+		"keyboardinputenabled"	"0"			
+	}
 		
 	"Offense"
 	{
@@ -108,7 +153,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"&1  Scout"
+		"labelText"			"&1	   Scout"
 		"textAlignment"		"west"
 		"Command"			"select 1"
 		"Default"			"0"
@@ -719,7 +764,6 @@
 		"xpos"			"5"
 		"ypos"			"0"
 		"zpos"			"5"
-		"wide"			"450"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -727,10 +771,27 @@
 		"visible_lodef"	"0"
 		"enabled"		"1"
 		"labelText"		"#TF_SelectAClass"
-		"textAlignment"	"left"
+		"textAlignment"	"Right"
 		"font"			"HudFontMediumSmallSecondary"
 		"fgcolor"		"HudOffWhite"
+		"auto_wide_tocontents"	"1"
+		
+		"pin_to_sibling" "ClassMenuSelectPin"
+		"pin_corner_to_sibling" "PIN_TOPRIGHT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}
+	
+	"ClassMenuSelectPin"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"	"ClassMenuSelectPin"
+		"xpos"		"r0"
+		"ypos"			"0"
+		"wide"			"1"
+		"tall"			"20"
+		"visible"	"1"
+		"enabled"	"1"
+	}	
 	
 	"MenuBG"
 	{
