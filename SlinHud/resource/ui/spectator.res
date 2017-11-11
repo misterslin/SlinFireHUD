@@ -60,18 +60,23 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"5"	[$WIN32]
-		"ypos"	"3"		[$WIN32]
-		"wide"			"600"	[$WIN32]
-		"tall"			"18"
+		"xpos"			"0"	[$WIN32]
+		"ypos"	"0"		[$WIN32]
+		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
-		"textAlignment"		"center"
+		"textAlignment"		"east"
 		"use_proportional_insets_minmode"	"1"
 		"font"			"HudFontMediumSmallSecondary"
+		"auto_wide_tocontents"	"1"
+		"textinsetx"	"10"
+		
+		"pin_to_sibling" "topbar"
+		"pin_corner_to_sibling" "PIN_TOPRIGHT"
+		"pin_to_sibling_corner" "PIN_TOPRIGHT"
 	}
 	"BuyBackLabel"
 	{

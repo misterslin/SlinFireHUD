@@ -1,4 +1,4 @@
-"Resource/UI/FreezePanel_Basic.res"
+"Resource/UI/test.res"
 {
 	"FreezePanel"
 	{
@@ -17,6 +17,7 @@
 		"wide"			"267"		
 		"tall"			"200"		
 		"visible"		"1"
+		"auto_wide_tocontents" "1"
 
 		"FreezePanelBG"
 		{
@@ -25,12 +26,13 @@
 			"xpos"			"8"
 			"ypos"			"160"
 			"zpos"			"0"
-			"wide"			"256"
 			"tall"			"33"
+			"wide"			"256"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"	
+			"auto_wide_tocontents" "1"
 			
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
@@ -44,8 +46,9 @@
 			"ControlName"		"Label"
 			"fieldName"		"FreezeLabel"
 			"font"			"DefaultSmall"
-			"xpos"			"70"
-			"ypos"			"162"
+			"xpos"			"0"
+			"textinsetx"	"5"
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"252"
 			"tall"			"12"
@@ -57,16 +60,21 @@
 			"textAlignment"		"North-West"
 			"dulltext"		"0"
 			"brighttext"		"0"
+			"auto_wide_tocontents"	"1"
+			
+			"pin_to_sibling" "AvatarImage"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
 		}
 		
 		"FreezePanelHealth"		[$WIN32]
 		{
 			"ControlName"	"CTFFreezePanelHealth"
 			"fieldName"		"FreezePanelHealth"
-			"xpos"			"8"
-			"ypos"			"160"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"1"
-			"wide"			"55"
+			"wide"			"60"
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"	
@@ -75,6 +83,11 @@
 			"TFFont"		"HudFontSmall"
 			"HealthDeathWarningColor"	"HUDDeathWarning"
 			"TextColor"		"HudOffWhite"
+			
+//			"auto_wide_tocontents" "1" //Doesn't work with auto wide?
+			"pin_to_sibling" "FreezePanelBG"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPLEFT"
 		}	
 
 		"FreezeLabelKiller"
@@ -82,33 +95,43 @@
 			"ControlName"	"Label"
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"HudFontSmall"
-			"xpos"			"91"
-			"ypos"			"173"
+			"xpos"			"0"
+			"textinsetx"	"5"
+			"ypos"			"0"
 			"zpos"			"5"
-			"wide"			"252"
 			"tall"			"18"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%killername%"
-			"textAlignment"		"Left"
+			"textAlignment"		"south-west"
+			
+			"auto_wide_tocontents"	"1"
+			
+			"pin_to_sibling" "AvatarImage"
+			"pin_corner_to_sibling" "PIN_BOTTOMLEFT"
+			"pin_to_sibling_corner" "PIN_BOTTOMRIGHT"
 		}
 
 		"AvatarImage"
 		{
 			"ControlName"		"CAvatarImagePanel"
 			"fieldName"		"AvatarImage"
-			"xpos"			"79"
-			"ypos"			"174"
+			"xpos"			"0"
+			"ypos"			"-5"
 			"zpos"			"0"
-			"wide"			"14"
-			"tall"			"14"
+			"wide"			"22"
+			"tall"			"22"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
+			
+			"pin_to_sibling" "FreezePanelHealth"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_TOPRIGHT"
 		}	
 		
 		"NemesisSubPanel"
@@ -118,9 +141,10 @@
 			"xpos"			"0"		// FIXME
 			"ypos"			"130"
 			"zpos"			"4"
-			"wide"			"306"
+			"wide"			"0"
 			"tall"			"38"
 			"visible"		"1"
+			"auto_wide_tocontents"	"1"
 
 			"NemesisPanelBG"
 			{
@@ -134,7 +158,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/color_panel_brown"
-				"scaleImage"		"1"	
+				"scaleImage"		"1"
+				"auto_wide_tocontents"	"1"
 				
 				"src_corner_height"		"23"				// pixels inside the image
 				"src_corner_width"		"23"
@@ -164,7 +189,6 @@
 				"xpos"			"134"
 				"ypos"			"10"
 				"zpos"			"6"
-				"wide"			"112"
 				"tall"			"18"
 				"autoResize"		"0"
 				"pinCorner"		"0"
@@ -172,6 +196,7 @@
 				"enabled"		"1"
 				"labelText"		"%nemesisname%"
 				"textAlignment"		"west"
+				"auto_wide_tocontents"	"1"
 			}
 			"NemesisLabel2"
 			{	

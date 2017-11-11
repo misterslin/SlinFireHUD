@@ -100,8 +100,8 @@
 		"zpos"			"6"
 		"wide"			"30"
 		"tall"			"30"
- 		"visible"		"1"
- 		"enabled"		"1"
+ 		"visible"		"0"	//Disabled but positioned
+ 		"enabled"		"0"
  		"labelText"		"%MaxHealth%"
  		"textAlignment"	"center"	
  		"font"			"TF212"

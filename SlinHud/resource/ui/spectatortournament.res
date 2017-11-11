@@ -214,7 +214,7 @@
 				"textAlignment"	"left"
 				"fgcolor"		"Ubercharge Full 1"
 				"auto_wide_tocontents" "1"
-			}			
+			}	
 			
 			"chargeamountBG"
 			{
