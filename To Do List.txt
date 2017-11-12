@@ -1,22 +1,20 @@
-rework bottom bit to be nicer auto to wide?
-MVM Scoreboard fix
-DUEL ICON sort out positioning
-Rework chat
-engi builidng status / chat overlap
 Unifed guihealth colors using clientscheme defined colors and fonts
 auto wide to contents winpanel?
 auto wide classselect?
-tournament hud finish
-elements of payload ui overlap with many things - make it so when minmode is off the cart is really big but when on everything is small
 mvm and ctf stuff overlap charge meters?
-make highligh of yourself in the casual ui more visable
-uber charge on tournemnt id doesnt animate when 100%
 consistent font names and color names
 make % medic just a number
+
 minmal ctf hud
+elements of payload ui overlap with many things - make it so when minmode is off the cart is really big but when on everything is small
+MVM Scoreboard fix
+
 killer target id name is spaced out
 inspect panel is broke
-item counts are broken	
+uber charge on tournemnt id doesnt animate when 100%
+make highligh of yourself in the casual ui more visable
+tournament hud finish
+DUEL ICON sort out positioning
 
 kill freeze panel
 -bg doesnt auto wide
@@ -38,3 +36,4 @@ kill freeze panel
 //add autoupdated for #base
 //Scoreboard rework
 //move select a class label to top right so out of the way on stream
+//Rework chat

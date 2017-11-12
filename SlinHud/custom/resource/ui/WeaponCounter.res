@@ -5,12 +5,13 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-50"	[$WIN32]
-		"ypos"			"r125"	[$WIN32]
+		"xpos"			"c155"	[$WIN32]
+		"ypos"			"r60"	[$WIN32]
 		"wide"			"100"
-		"tall"			"50"
+		"tall"			"15"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
+//		"auto_wide_tocontents"	"1"	//cuts of label?
 	}
 	
 	"ItemEffectMeterBG"
@@ -36,21 +37,27 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"25"
-		"ypos"					"27"
+		"xpos"					"15"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
 		"autoResize"			"1"
-		"pinCorner"				"2"
-		"visible"				"0"
-		"enabled"				"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
-		"textAlignment"			"center"
+		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"TFFontSmall"
+		
+		"auto_wide_tocontents"	"1"
+		
+//		"pin_to_sibling" "ItemEffectMeterCountBG"	//won't pin
+//		"pin_corner_to_sibling" "PIN_BOTTOMLEFT"
+//		"pin_to_sibling_corner" "PIN_BOTTOMRIGHT"
 	}
 
 	"ItemEffectMeter"
@@ -79,8 +86,7 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"2"
-		"wide"					"100"
-		"tall"					"50"	
+		"tall"					"15"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -89,6 +95,32 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFS12"
+		"font"					"2Damage16"
+		"auto_wide_tocontents"	"1"
+	}
+	
+	"ItemEffectMeterCountBG"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCountBG"
+		"xpos"					"-1"
+		"ypos"					"-1"
+		"zpos"					"2"
+		"tall"					"15"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"center"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"2Damage16"
+		"auto_wide_tocontents"	"1"
+		"fgcolor"	"Black"
+		
+		"pin_to_sibling" "ItemEffectMeterCount"
+		"pin_corner_to_sibling" "PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}
 }

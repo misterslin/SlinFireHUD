@@ -633,7 +633,7 @@
 		"zpos"			"-1"
 		"wide"			"550"
 		"tall"			"100"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/tournament_panel_brown"
 		
@@ -644,6 +644,11 @@
 	
 		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"5"	
+	
+		if_mvm
+		{
+			"visible"		"1"
+		}
 	}
 	"ClassImage"
 	{
