@@ -11,9 +11,11 @@ MVM Scoreboard fix
 
 killer target id name is spaced out
 inspect panel is broke
+//item counts are broken
 uber charge on tournemnt id doesnt animate when 100%
 make highligh of yourself in the casual ui more visable
 tournament hud finish
+//engi builidng status / chat overlap
 DUEL ICON sort out positioning
 
 kill freeze panel
