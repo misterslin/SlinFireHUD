@@ -178,7 +178,7 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c-25"	[$WIN32]
-		"ypos"					"r125"	[$WIN32]
+		"ypos"					"r105"	[$WIN32]
 		"wide"					"50"
 		"tall"  				"30"
 		"visible" 				"1"
@@ -284,10 +284,10 @@
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
+		"xpos"		"r140"
 		"xpos_hidef"		"32"
 		"xpos_lodef"		"40"
-		"ypos"		"80"
+		"ypos"		"r320"
 		"ypos_hidef"		"16"
 		"ypos_lodef"		"25"
 		"wide"		"640"

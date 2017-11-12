@@ -1,18 +1,39 @@
-Scoreboard rework and MVM Scoreboard fix - finish pin corner and auto wide - DUEL ICON sort out positioning
-Rework chat
-sort #base directory to allow for auto updater
-add autoupdated for #base
-
-
 Unifed guihealth colors using clientscheme defined colors and fonts
-
-winpanl - points > 100 overlaps with demoman - can move to left becuase of wider scoreboard or change text anlinment//auto wide to contents
-tournament hud finish
-elements of payload ui overlap with many things - make it so when minmode is off the cart is really big but when on everything is small
+auto wide to contents winpanel?
+auto wide classselect?
 mvm and ctf stuff overlap charge meters?
-respawn timer overlaps with scoreboard, move behind casual ui as it goes away when you press tab
-make highligh of yourself in the casual ui more visable
-make background of casul ui solid so you dont see the respawn time through it
-killer target id 300 hp is chopped of to the right
+consistent font names and color names
+make % medic just a number
 
-raw hud base chat were?
+minmal ctf hud
+elements of payload ui overlap with many things - make it so when minmode is off the cart is really big but when on everything is small
+MVM Scoreboard fix
+
+killer target id name is spaced out
+inspect panel is broke
+uber charge on tournemnt id doesnt animate when 100%
+make highligh of yourself in the casual ui more visable
+tournament hud finish
+DUEL ICON sort out positioning
+
+kill freeze panel
+-bg doesnt auto wide
+-FreezePanelHealth in _basic doesnt auto wide
+
+//new charge meters
+//pin bonus health to cross so it doesnt overlap when health > 100
+//voice menus lag game - medic timer broken
+//raw hud base chat were?
+//slin hud - tob of scoreboard overlaps top of the tournament ui
+//target id overlaps with engi metal 
+//make background of casul ui solid so you dont see the respawn time through it
+//killer target id 300 hp is chopped of to the right
+//no dropshadow to killer target id
+//respawn timer overlaps with scoreboard, move behind casual ui as it goes away when you press tab
+//winpanl - points > 100 overlaps with demoman - can move to left becuase of wider scoreboard or change text anlinment
+//sort #base directory to allow for auto updater
+//finish pin corner and auto wide 
+//add autoupdated for #base
+//Scoreboard rework
+//move select a class label to top right so out of the way on stream
+//Rework chat
