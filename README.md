@@ -2,10 +2,17 @@
 Hi everyone!
 
 Thank you for downloading my TF2 HUD and configuration files created for 1920x1080 resolution. I have no plans for adapting the HUD/config to suit other resolutions.
-This download consists of the latest version of Slinfire HUD, my personal mumble overlay, P-REC, and my personal sound files (including hitsound).
 
 =============Huge shoutout goes to Aurora for actually coding all of this stuff!!!=============
 Without Aurora I definitely couldn't do this. Find Aurora as aurah__ on Twitch.
+
+This download includes the following:  
+-My config files, including my key binds and scripts (autoexec, class scripts, etc.) (Updated April 7, 2018)  
+-Slinfire HUD, maintained and managed by Aurora
+-My hitsound (Quake 3 Hitsound, found in the /sound folder)  
+
+My hud does not include MasterComfig, which is an FPS config that will give you 20-200% better FPS. I highly recommend that you download it! 
+The link is found here: https://mastercoms.github.io/mastercomfig/
 
 Video walkthrough for installing this HUD:
 https://www.youtube.com/watch?v=WQQNxMF19R0&list=PLQ-oNjz9WriP7kN83FX0Vt3dxbdZJ3cng
@@ -17,15 +24,6 @@ I HIGHLY recommend that you do NOT copy my config directly (the "cfg" folder). T
 If you copy it directly, it'll mess all of your settings up and I won't be able to undo it for you.
 
 ****************************
-
-This download includes the following:  
--My config files, including my key binds and scripts (autoexec, class scripts, etc.) (Updated April 7, 2018)  
--Slinfire HUD, maintained and managed by Aurora
--My hitsound (Quake 3 Hitsound, found in the /sound folder)  
-
-My hud does not include MasterComfig, which is an FPS config that will give you 20-200% better FPS. I highly recommend that you download it! 
-The link is found here: https://mastercoms.github.io/mastercomfig/
-
 
 Installation Instructions:
 
