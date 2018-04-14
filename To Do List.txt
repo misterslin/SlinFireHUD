@@ -37,3 +37,5 @@ kill freeze panel
 //Scoreboard rework
 //move select a class label to top right so out of the way on stream
 //Rework chat
+
+Engi buildings move up ontop of killfeed when respawning 
