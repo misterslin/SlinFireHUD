@@ -231,7 +231,7 @@
 		"ypos"		"c55"
 		"zpos"		"1"
 		"wide"	 	"600"
-		"tall"	 	"45"
+		"tall"	 	"115"
 		"priority"	"100"
 	}
 	

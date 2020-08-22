@@ -33,5 +33,7 @@ Scheme
 
 		"Low-Ammo Warning 1"  "200 0 0 255"
 		"Low-Ammo Warning 2"  "255 0 0 255"
+
+		"NeonPurple"		"0 255 255 255"
 	}
 }
