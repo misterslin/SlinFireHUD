@@ -4,14 +4,16 @@ Hi everyone!
 Thank you for downloading my TF2 HUD and configuration files created for 1920x1080 resolution. I have no plans for adapting the HUD/config to suit other resolutions.  
   
 ## Summary
-Huge shoutout goes to Aurora for actually coding all of this stuff!!! Without Aurora none of this would have happened. You can find Aurora as aurah__ on Twitch.  
+Huge shoutout goes to Raysfire, who originally put this HUD together for me. /Raysfire on Twitch.
+My second shoutout is for Aurora for making MAJOR updates to this HUD including the uber tracker and for teaching me how to use GitHub. /aurah__ on Twitch. 
+Lastly, big thank you to Kazzy for recent updates to HUD including the new HUDMatchStatus. Kazzy#9758 on Discord.
 
 This download includes the following:  
--My config files, including my key binds and scripts (autoexec, class scripts, etc.) (Updated April 7, 2018)  
--Slinfire HUD, maintained and managed by Aurora  
--My hitsound (Quake 3 Hitsound, found in the /sound folder)  
+-My config files, including my key binds and scripts (autoexec, class scripts, etc.): I do not recommend installing these but are here for your reference.
+-My hitsound (Quake 3 Hitsound, found in the /sound folder) 
+-SlinFire HUD: probably the thing you are looking for
 
-My hud does not include MasterComfig, which is an FPS config that will give you 20-200% better FPS. I highly recommend that you download it! The link is found here: https://mastercoms.github.io/mastercomfig/  
+My hud does not include MasterComfig, which is an FPS config that will give you 20-200% better FPS. I highly recommend that you download it! The link is found here: https://mastercomfig.com/
 
 Video walkthrough for installing this HUD:  
 https://www.youtube.com/watch?v=WQQNxMF19R0&list=PLQ-oNjz9WriP7kN83FX0Vt3dxbdZJ3cng
@@ -25,20 +27,13 @@ I HIGHLY recommend that you do NOT copy my config directly (the "cfg" folder). T
   
 ## Installation Instructions:  
 
-1. Unzip the .rar and place the "SlinFireHUD" folder directly into C:\Program Files\Steam\steamapps\common\team fortress 2\tf\custom and overwrite any necessary files.
+BEFORE STARTING, if you've already installed custom scripts, HUD, or binds, make sure to back that folder up so you can undo any mistakes.
 
-1a. If you already have a folder within \tf\custom, I recommend backing up that folder. Then, put the files from slincustomstuff directly into that folder instead and overwrite any necessary files. 
-You should only have one folder within \tf\custom.
+1. Unzip the .rar and place the "SlinHUD" folder directly into C:\Program Files\Steam\steamapps\common\team fortress 2\tf\custom and overwrite any necessary files.
 
-1b. Want to install just the HUD and not the rest of the config? Copy only the "Materials", "Resource", and "Scripts" folders into your \tf\custom\slincustomstuff or related folder.
+2. If you want my quake hitsound, go into the DANGER ZONE and move the sound folder into the SlinHUD folder.
 
-2. Set your launch options for Team Fortress 2. You can do this by going to your Steam library > Right Click TF2 > Properties > Set launch options.  
-	Fullscreen: -dxlevel 95 -full -w 1920 -h 1080 -console -novid -useforcedmparms -noforcemaccel -noforcemspd  
-	Windowed:   -dxlevel 95 -sw -w 1920 -h 1080 -console -noborder -novid -useforcedmparms -noforcemaccel -noforcemspd  
-
-	This will set your game to use DirectX 9.5, with a width of 1920 and a height of 1080, opening developers console on startup, and turning off mouse accel, and no startup vids.  
-
-3. I like to put my in-game chat in the top left of my screen, but I know that many of you would like the chat in the default position. Delete \SlinFireHUD\resource\ui\basechat.res and it will default to normal.
+3. I like to put my in-game chat in the top left of my screen, but I know that many of you would like the chat in the default position. Delete \SlinHUD\resource\ui\basechat.res and it will default to normal.
 
 Enjoy!
 
