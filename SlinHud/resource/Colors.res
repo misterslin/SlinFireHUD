@@ -35,5 +35,17 @@ Scheme
 		"Low-Ammo Warning 2"  "255 0 0 255"
 
 		"NeonPurple"		"0 255 255 255"
+		
+		"GrayTransparent"	"175 175 175 150"
+		
+		"GreenLight"							"40 200 110 255"
+		
+		"OrangeLight"							"255 200 55 255"
+		
+		"RedLight"								"245 70 70 255"
+		
+		"HudOffWhite"							"235 235 235 255"
+		
+		"BlackTransparent"						"0 0 0 200"
 	}
 }
