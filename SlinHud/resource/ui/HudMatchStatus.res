@@ -267,7 +267,7 @@
 				"textAlignment"					"Left"
 				"dulltext"						"0"
 				"brighttext"					"0"
-				"bgcolor_override"	   			"32 32 32 255" // "80 80 80 255"
+				"bgcolor_override"	   			"80 80 80 255"
 				"proportionaltoparent"			"1"
 			}
 			
@@ -327,7 +327,7 @@
 				"labelText"						"%respawntime%"
 				"textAlignment"					"center"
 				"proportionaltoparent"			"1"
-				"fgcolor"						"255 158 0 255" // "235 235 235 255"
+				"fgcolor"						"235 235 235 255"
 			}
 			
 			"chargeamount"
@@ -699,9 +699,9 @@
 		{
 			"ypos"								"0"
 			"wide"								"4"
-			"tall"								"2"
+			"tall"								"4"
 			"zpos"								"7"
-			"image"								"../vgui/replay/thumbnails/panels/Material_Transparent_Black_70"
+			"image"								"../hud/comp_round_counter_dot_bg"
 			"scaleimage"						"1"
 		}
 		
@@ -709,9 +709,9 @@
 		{
 			"ypos"								"0"
 			"wide"								"4"
-			"tall"								"2"
+			"tall"								"4"
 			"zpos"								"8"
-			"image"								"../vgui/replay/thumbnails/panels/Panel_Red"
+			"image"								"../hud/comp_round_counter_light_red"
 			"scaleimage"						"1"
 		}
 
@@ -719,9 +719,9 @@
 		{
 			"ypos"								"0"
 			"wide"								"4"
-			"tall"								"2"
+			"tall"								"4"
 			"zpos"								"8"
-			"image"								"../vgui/replay/thumbnails/panels/Panel_Blue"
+			"image"								"../hud/comp_round_counter_light_blue"
 			"scaleimage"						"1"
 		}
 		

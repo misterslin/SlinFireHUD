@@ -44,7 +44,7 @@
 	}
 	"Version"
 	{
-		"label"			"Slin HUD Version Aug 29 2020"
+		"label"			"Slin HUD Version Aug 31 2020"
 		"command"		"engine showconsole;"
 		"OnlyAtMenu"	"1"
 	}
