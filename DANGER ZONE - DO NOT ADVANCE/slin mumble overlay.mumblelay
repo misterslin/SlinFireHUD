@@ -1,0 +1,16 @@
+[overlay]
+version=1.3.2
+show=0
+alwaysself=false
+x=@Variant(\0\0\0\x87\0\0\0\0)
+y=@Variant(\0\0\0\x87>\xbf\x35W)
+userfont=@Variant(\0\0\0@\0\0\0\xe\0V\0\x65\0r\0\x64\0\x61\0n\0\x61@(\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
+avatarshow=false
+boxshow=false
+userrect=@Variant(\0\0\0\x14\xbf\x84\xdb\xf8j1M\xc0\xbf\x92}'\xd2}'\xd3?\xd0\xf+\x9d\x64\x80\xf3?\xa0\xd4\x62\x9b\x7f\rF)
+mutedrect=@Variant(\0\0\0\x14?\xb1\x8am\xfc\x35\x18\xa7\xbf\x93o\xe1\xa8\xc5\x36\xfe?\xa0[\x5\xb0[\x5\xb1?\xa0\xd4\x62\x9b\x7f\rF)
+launchersexclude=@Invalid()
+whitelistexclude=gw2.exe, gw2-64.exe
+paths=C:\\Program Files (x86)\\Steam
+pathsexclude=@Invalid()
+blacklistexclude=@Invalid()
