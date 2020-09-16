@@ -10,6 +10,7 @@ Lastly, big thank you to Kazzy for recent updates to HUD including the new HUDMa
 
 This download includes the following:  
 -My config files, including my key binds and scripts (autoexec, class scripts, etc.): I do not recommend installing these but are here for your reference.
+-My Mumble overlay is also in the "danger zone" folder
 -My hitsound (Quake 3 Hitsound, found in the /sound folder) 
 -SlinFire HUD: probably the thing you are looking for
 
