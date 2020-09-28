@@ -1,2 +1,14 @@
-#base	"..\..\custom\resource\ui\huditemeffectmeter1.res"
-#base	"..\..\tf2hud\resource\ui\huditemeffectmeter_sniperfocus.res"
+#base "huditemeffectmeter.res"
+
+"Resource/UI/HudItemEffectMeter_SniperFocus.res"
+{
+    HudItemEffectMeter
+    {
+        "ypos"          "r100"  [$WIN32]
+    }
+    
+    "ItemEffectMeterLabel"
+    {
+        "labelText"             "#TF_ENERGYDRINK"
+    }
+}

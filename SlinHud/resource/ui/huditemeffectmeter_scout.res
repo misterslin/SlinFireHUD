@@ -1,2 +1,9 @@
-#base	"..\..\custom\resource\ui\huditemeffectmeter2.res"
-#base	"..\..\tf2hud\resource\ui\huditemeffectmeter_scout.res"
+#base "huditemeffectmeter.res"
+
+"Resource/UI/HudItemEffectMeter_Scout.res"
+{
+    "ItemEffectMeterLabel"
+    {
+        "labelText"             "#TF_ENERGYDRINK"
+    }
+}

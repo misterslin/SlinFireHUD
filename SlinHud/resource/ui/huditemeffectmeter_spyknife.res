@@ -1,2 +1,12 @@
-#base	"..\..\custom\resource\ui\huditemeffectmeter3.res"
-#base	"..\..\tf2hud\resource\ui\huditemeffectmeter_spyknife.res"
+"Resource/UI/HudItemEffectMeter_SpyKnife.res"
+{
+    HudItemEffectMeter
+    {
+        "ypos"          "r86"   [$WIN32]
+    }
+
+    "ItemEffectMeterLabel"
+    {
+        "labelText"             "#TF_ENERGYDRINK"
+    }
+}

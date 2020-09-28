@@ -1,5 +1,3 @@
-#base "..\..\custom\resource\ui\MedicUberCounting.res"
-
 "Resource/UI/HudMedicCharge.res"
 {	
 	"Background"

@@ -44,8 +44,8 @@
 	}
 	"Version"
 	{
-		"label"			"Slin HUD Version Aug 31 2020"
-		"command"		"engine showconsole;"
+		"label"			"Slin HUD Version Sep 27 2020"
+		"command"		"engine showconsole; echo ====================; echo twitch.tv/misterslin; echo ===================="
 		"OnlyAtMenu"	"1"
 	}
 }

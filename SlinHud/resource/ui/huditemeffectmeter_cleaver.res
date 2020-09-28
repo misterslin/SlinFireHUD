@@ -1,2 +1,14 @@
-#base	"..\..\custom\resource\ui\huditemeffectmeter3.res"
-#base	"..\..\tf2hud\resource\ui\huditemeffectmeter_cleaver.res"
+#base "huditemeffectmeter.res"
+
+"Resource/UI/HudItemEffectMeter_Cleaver.res"
+{
+    HudItemEffectMeter
+    {
+        "ypos"          "r86"   [$WIN32]
+    }
+
+    "ItemEffectMeterLabel"
+    {
+        "labelText"             "#TF_Cleaver"
+    }                 
+}

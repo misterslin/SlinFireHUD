@@ -1,4 +1,5 @@
-#base "MedicUberCounting.res"
+#base "HudMedicUberCounter.res"
+
 "Resource/UI/HudPlayerHealth.res"
 {	
 	// player health data

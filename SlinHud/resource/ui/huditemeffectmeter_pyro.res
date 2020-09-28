@@ -1,2 +1,9 @@
-#base	"..\..\custom\resource\ui\huditemeffectmeter1.res"
-#base	"..\..\tf2hud\resource\ui\huditemeffectmeter_pyro.res"
+#base "huditemeffectmeter.res"
+
+"Resource/UI/HudItemEffectMeter_Pyro.res"
+{
+    HudItemEffectMeter
+    {
+        "ypos"          "r100"  [$WIN32]
+    }
+}

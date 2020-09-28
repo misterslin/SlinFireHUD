@@ -203,6 +203,19 @@ event MenuOpen
 	RunEvent ClearUber 0.0
 }
 
+event MenuPulse
+{
+	Animate HudMenu		Blur		"7"			Linear	0.0		0.1
+	Animate HudMenu		Blur		"2"			Deaccel	0.1		0.1
+	Animate HudMenu		Blur		"7"			Linear	0.2		0.1
+	Animate HudMenu		Blur		"2"			Deaccel	0.3		0.1
+	Animate HudMenu		Blur		"7"			Linear	0.4		0.1
+	Animate HudMenu		Blur		"2"			Deaccel	0.5		0.1
+	Animate	HudMenu		Blur		"1"			Deaccel	0.6		0.4
+
+	RunEvent ClearUber 0.0
+}
+
 event MenuClose
 {
 	// Hide it

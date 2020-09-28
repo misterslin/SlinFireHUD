@@ -245,16 +245,7 @@ Scheme
 				"tall"		"18"
 				"antialias" "1"
 			}
-		}		
-		"VerdanaB"
-		{
-			"1"
-			{
-				"name"		"VerdanaB"
-				"tall"		"20"
-				"antialias" "1"
-			}
-		}	
+		}			
 		"Target"
 		{
 			"1"
