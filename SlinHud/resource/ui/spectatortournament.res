@@ -212,9 +212,9 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"left"
-				"fgcolor"		"Ubercharge Full 1"
+				"fgcolor"		"0 255 17 255"
 				"auto_wide_tocontents" "1"
-			}	
+			}			
 			
 			"chargeamountBG"
 			{
