@@ -20,7 +20,7 @@ Video walkthrough for installing this HUD:
 https://www.youtube.com/watch?v=WQQNxMF19R0&list=PLQ-oNjz9WriP7kN83FX0Vt3dxbdZJ3cng
 
 ## Need help?
-If you run into issues, please join our Discord at discord.gg/misterslin and ask for assistance.  
+If you run into issues, join our Discord at discord.gg/mrslin and ask for assistance. No promises on what we're able to do, though.  
 
 I HIGHLY recommend that you do NOT copy my config directly (the "cfg" folder). This should be used as a reference to create your own scripts or to see what I use. If you copy it directly, it'll mess all of your settings up and I won't be able to undo it for you.  
 
@@ -40,5 +40,5 @@ Enjoy!
 
 MR SLIN
 
-P.S. Don't forget, you can catch my stream at www.twitch.tv/misterslin
+P.S. Don't forget, you can catch my stream at www.twitch.tv/mr_slin
 
